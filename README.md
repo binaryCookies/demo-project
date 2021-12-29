@@ -10,4 +10,6 @@ I will figure out the main and master branches
 
 ## local development
 
-1. Open index.html in your browse
+1. Open index.html in your browser
+
+Testing 123 Testing
